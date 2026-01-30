@@ -6,6 +6,7 @@ O objetivo principal foi recriar mecânicas clássicas do jogo original, como mo
 
 ![Gameplay do jogo](./docs/gameplay_1.png)
 ![Gameplay do jogo](./docs/gameplay_2.png)
+![GameOver](./docs/gameplay_3.png)
 
 ---
 
