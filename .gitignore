@@ -1,0 +1,9 @@
+.vs/
+.vsconfig
+Assembly-CSharp.csproj
+Library/
+Logs/
+Temp/
+Super Mario Bros.sln
+UserSettings/
+obj/
